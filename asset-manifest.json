@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dailies/static/css/main.f855e6bc.css",
+    "main.js": "/dailies/static/js/main.83433630.js",
+    "static/js/787.d4aba7ab.chunk.js": "/dailies/static/js/787.d4aba7ab.chunk.js",
+    "static/media/logo.svg": "/dailies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dailies/index.html",
+    "main.f855e6bc.css.map": "/dailies/static/css/main.f855e6bc.css.map",
+    "main.83433630.js.map": "/dailies/static/js/main.83433630.js.map",
+    "787.d4aba7ab.chunk.js.map": "/dailies/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.83433630.js"
+  ]
+}
